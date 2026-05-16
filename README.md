@@ -12,7 +12,7 @@ I am passionate about building **AI-powered applications, data-driven systems, a
 # 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering from Jamia Hamdard
-- 🤖 **LLM Intern at Ethara AI**, working on AI systems and Large Language Models
+- 🤖 **LLM Post Training Intern at Ethara AI**, working on AI systems and Large Language Models
 - 💡 Interested in Artificial Intelligence, Machine Learning, NLP, and Data Science
 - 👥 Tech Team Member at GDG Community and Code Copy Community
 ---
