@@ -23,7 +23,6 @@ I enjoy building AI-powered applications that solve real-world problems — from
 
 - 🔭 Currently working on **LLM post-training pipelines** at Ethara AI
 - 🌱 Deepening expertise in **Generative AI, Alignment, and AI System Design**
-- 👥 Active member of **GDG Community** and **Code Copy Community**
 - 💬 Ask me about **Python, NLP, Deep Learning, FastAPI, or LLMs**
 - 📍 Based in **India**
 
@@ -93,11 +92,15 @@ Working on AI systems involving **post-training techniques for LLMs** — includ
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muzammilabdin29&theme=default&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=muzammilabdin29&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false" alt="Muzammil's GitHub Stats" />
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=muzammilabdin29&theme=default&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilabdin29&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=muzammilabdin29&theme=default&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilabdin29&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 
 </div>
 
