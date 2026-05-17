@@ -92,15 +92,11 @@ Working on AI systems involving **post-training techniques for LLMs** — includ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muzammilabdin29&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false" alt="Muzammil's GitHub Stats" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=muzammilabdin29&theme=default&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilabdin29&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzammilabdin29&theme=default" alt="GitHub Profile Summary" />
 
 </div>
 
