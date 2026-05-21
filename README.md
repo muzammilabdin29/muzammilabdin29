@@ -1,126 +1,293 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Md%20Muzammil%20Abdin&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20LLM%20Developer%20%7C%20Generative%20AI%20Enthusiast&descAlignY=58&descSize=18" />
 
-# Md Muzammil Abdin
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=LLM+Post-Training+Intern+at+Ethara+AI;AI+%2F+ML+Engineer+from+India;Building+Production-Ready+AI+Systems;FastAPI+%7C+NLP+%7C+Computer+Vision+%7C+LLMs;Passionate+About+Generative+AI+and+AI+Research" />
+</p>
 
-**LLM Post-Training Intern · AI/ML Engineer · B.Tech CSE @ Jamia Hamdard**
+<p align="center">
+  <a href="https://github.com/muzammilabdin29">
+    <img src="https://komarev.com/ghpvc/?username=muzammilabdin29&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmuzammilabdin/)
-[![Email](https://img.shields.io/badge/Email-mdmuzamilabdin%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdmuzamilabdin@gmail.com)
-[![X](https://img.shields.io/badge/X-@muzammil__m69791-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/muzammil_m69791)
-[![GitHub](https://img.shields.io/badge/GitHub-muzammilabdin29-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muzammilabdin29)
+  <a href="https://github.com/muzammilabdin29?tab=followers">
+    <img src="https://img.shields.io/github/followers/muzammilabdin29?label=Followers&style=social" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mdmuzammilabdin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:mdmuzamilabdin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/muzammil_m69791">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/muzammilabdin29">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+# 🚀 About Me
 
-I'm a Computer Science student at **Jamia Hamdard** with a strong focus on **Artificial Intelligence, Large Language Models, and Machine Learning**. Currently gaining hands-on industry experience as an **LLM Post-Training Intern at Ethara AI**, where I work on refining and evaluating large language model systems.
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I enjoy building AI-powered applications that solve real-world problems — from medical diagnostics to NLP pipelines.
+I'm a passionate **AI Engineer and LLM Developer** pursuing **B.Tech in Computer Science Engineering at Jamia Hamdard**.
 
-- 🔭 Currently working on **LLM post-training pipelines** at Ethara AI
-- 🌱 Deepening expertise in **Generative AI, Alignment, and AI System Design**
-- 💬 Ask me about **Python, NLP, Deep Learning, FastAPI, or LLMs**
-- 📍 Based in **India**
+Currently working as an **LLM Post-Training Intern at Ethara AI**, where I contribute to advanced AI workflows involving:
 
----
+- LLM evaluation
+- post-training pipelines
+- model refinement
+- AI infrastructure
+- scalable AI systems
 
-## Experience
+I enjoy building impactful AI applications across:
 
-### 🤖 LLM Post-Training Intern — Ethara AI
-*Internship · AI / Large Language Models*
-
-Working on AI systems involving **post-training techniques for LLMs** — including fine-tuning, RLHF-adjacent workflows, and evaluation frameworks. Gaining deep exposure to how production-grade language models are refined and deployed.
-
----
-
-## Featured Projects
-
-### 🧠 AI Resume Analyzer
-> NLP-powered system that parses resumes, benchmarks them against job descriptions, and provides targeted improvement suggestions.
-
-**Tech Stack:** `Python` · `Streamlit` · `BERT` · `spaCy` · `NLP`
+- 🤖 Large Language Models
+- 🧠 NLP Systems
+- 🩺 Medical AI
+- 👁️ Computer Vision
+- ⚡ FastAPI Backends
+- 🔬 AI Research & Deployment
 
 ---
 
-### 🏥 Clinical AI — Smart Lab Report Analyzer
-> Analyzes medical lab reports using AI, extracts structured test data, generates clinical insights, and visualizes health metrics through interactive dashboards.
+# 💼 Experience
 
-**Tech Stack:** `FastAPI` · `Python` · `Groq API` · `Pandas` · `Matplotlib`
+## 🤖 LLM Post-Training Intern — Ethara AI
 
----
+### AI / Large Language Models
 
-### 🩺 Kidney Stone Detection via Deep Learning
-> A medical imaging system that detects kidney stones from CT scan images using deep learning — designed to assist clinicians in early and accurate diagnosis.
-
-**Tech Stack:** `Python` · `TensorFlow` · `PyTorch` · `OpenCV` · `NumPy`
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**AI / ML / Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
-
-**Frameworks & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- Working on production-level LLM workflows and evaluation systems
+- Contributing to post-training and alignment-oriented AI pipelines
+- Building scalable infrastructure for model testing and benchmarking
+- Exploring RLHF-adjacent systems and AI evaluation frameworks
+- Collaborating on advanced AI engineering workflows
 
 ---
 
-## GitHub Stats
+# 🛠️ Tech Stack
+
+## 👨‍💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,html,css,javascript" />
+</p>
+
+---
+
+## 🤖 AI / ML / Deep Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p align="left">
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+
+</p>
+
+---
+
+## ⚙️ Frameworks & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,vscode,pycharm,mysql" />
+</p>
+
+<p align="left">
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</p>
+---
+
+# 🧠 Featured Projects
+
+## 🩺 KidneyVision — AI Powered Kidney Stone Detection
+
+> Advanced deep learning system for automated kidney stone detection and comparative analysis from CT scan images.
+
+### ✨ Highlights
+
+- Deep Learning based Medical Imaging
+- AI-assisted diagnostic workflow
+- Comparative segmentation analysis
+- Automated PDF reporting system
+- Interactive visualization dashboard
+
+### 🛠️ Tech Stack
+
+`Python` `TensorFlow` `PyTorch` `FastAPI` `OpenCV` `NumPy`
+
+---
+
+## 🏥 Clinical AI — Smart Lab Report Analyzer
+
+> AI-powered healthcare analytics platform that extracts medical insights from laboratory reports using NLP and LLM-based analysis.
+
+### ✨ Features
+
+- Automated report parsing
+- Clinical insight generation
+- Interactive data visualization
+- AI-powered medical interpretation
+- Structured health analytics dashboard
+
+### 🛠️ Tech Stack
+
+`Python` `FastAPI` `Groq API` `Pandas` `Matplotlib`
+
+---
+
+## 🧠 AI Resume Analyzer
+
+> Intelligent NLP system that analyzes resumes against job descriptions and generates personalized improvement recommendations.
+
+### ✨ Features
+
+- Resume-job matching
+- ATS optimization insights
+- Semantic skill analysis
+- NLP-based recommendations
+- Candidate scoring system
+
+### 🛠️ Tech Stack
+
+`Python` `BERT` `spaCy` `NLP` `Streamlit`
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=muzammilabdin29&theme=default&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muzammilabdin29&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzammilabdin29&theme=default" alt="GitHub Profile Summary" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammilabdin29&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## Currently Learning
+<div align="center">
 
-| Topic | Focus Area |
+<img width="70%" src="https://streak-stats.demolab.com?user=muzammilabdin29&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muzammilabdin29&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzammilabdin29&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/muzammilabdin29/muzammilabdin29/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+| Domain | Focus Area |
 |---|---|
-| Large Language Models | Post-training, alignment, RLHF |
-| Generative AI | Prompt engineering, RAG, agents |
-| Advanced ML | Model optimization, deployment |
-| AI System Design | Scalable, production-ready AI pipelines |
+| Large Language Models | Post-training, RLHF, Alignment |
+| Generative AI | RAG, AI Agents, Prompt Engineering |
+| AI Engineering | Scalable AI Systems |
+| Deep Learning | Model Optimization |
+| Backend Development | FastAPI & AI APIs |
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-grade AI systems
+- 🤝 Contribute to major open-source AI projects
+- 🧠 Deep dive into LLM alignment and evaluation
+- ⚡ Master scalable AI deployment
+- 🔬 Publish impactful AI research projects
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to:
+
+- AI/ML collaborations
+- Open-source contributions
+- Research discussions
+- Internship opportunities
+- Building impactful AI products
+
+---
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mdmuzammilabdin">
+  <img src="https://img.shields.io/badge/LinkedIn-Md%20Muzammil%20Abdin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mdmuzamilabdin@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mdmuzamilabdin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/muzammilabdin29">
+  <img src="https://img.shields.io/badge/GitHub-muzammilabdin29-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### ⚡ "Building AI Systems That Create Real-World Impact"
 
-I'm always open to collaborating on AI/ML projects, research, or open-source contributions.
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmuzammilabdin/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
 
 </div>
